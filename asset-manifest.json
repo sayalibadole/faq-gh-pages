@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/faq-gh-pages/static/css/main.eed5a468.css",
+    "main.js": "/faq-gh-pages/static/js/main.28a1840c.js",
+    "index.html": "/faq-gh-pages/index.html",
+    "main.eed5a468.css.map": "/faq-gh-pages/static/css/main.eed5a468.css.map",
+    "main.28a1840c.js.map": "/faq-gh-pages/static/js/main.28a1840c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eed5a468.css",
+    "static/js/main.28a1840c.js"
+  ]
+}
